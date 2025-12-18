@@ -22,7 +22,7 @@ public class SpringBootDockerApplication {
 
 	@RequestMapping("/")
 	public String home(){ 
-		return "Mingos zero gay!";
+		return "Squirrel!";
 	}
 
 	public static void main(String[] args) {
